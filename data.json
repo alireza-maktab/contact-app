@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Abbas",
+      "lastName": "Booazar",
+      "email": "abbas@booazar.com",
+      "phone": "+1002005454",
+      "gender": "male",
+      "nationality": "iranian"
+    },
+    {
+      "id": 2,
+      "firstName": "Akbar",
+      "lastName": "Mashti",
+      "email": "akbar@mashti.com",
+      "phone": "+92364597248",
+      "gender": "male",
+      "nationality": "iranian"
+    },
+    {
+      "id": 3,
+      "firstName": "Jenifer",
+      "lastName": "Lawrence",
+      "email": "Jenifer.lawrence@gmail.com",
+      "phone": "+100254872469",
+      "gender": "female",
+      "nationality": "American"
+    },
+    {
+      "id": 4,
+      "firstName": "James",
+      "lastName": "Bond",
+      "email": "James@007.com",
+      "phone": "+135613561325",
+      "gender": "male",
+      "nationality": "American"
+    },
+    {
+      "id": 5,
+      "firstName": "Setare",
+      "lastName": "Kashefi",
+      "email": "setare@yahoo.com",
+      "phone": "+135613561325",
+      "gender": "female",
+      "nationality": "iranian"
+    },
+    {
+      "id": 6,
+      "firstName": "Maryam",
+      "lastName": "Naamvar",
+      "email": "maryamnamvaar@gmail.com",
+      "phone": "+81732690847",
+      "gender": "female",
+      "nationality": "iranian"
+    }
+  ]
+}
